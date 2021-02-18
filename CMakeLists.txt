@@ -16,4 +16,4 @@ generate_messages(
   geographic_msgs
 )
 
-catkin_package(CATKIN_DEPENDS message_runtime)
+catkin_package(CATKIN_DEPENDS message_runtime geographic_msgs)
